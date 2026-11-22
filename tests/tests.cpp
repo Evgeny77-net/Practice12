@@ -2,7 +2,7 @@
 #include <iostream>
 #include <stdexcept>
 #include <cmath>
-#include "../src/math_utils.h"
+#include "../src/m_utils.h"
 
 void test_addition() {
     assert(add(2, 3) == 5);
